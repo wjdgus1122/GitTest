@@ -1,5 +1,11 @@
+import { Min } from "./Min0723";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Min />
+    </>
+  );
 }
 
 export default App;
